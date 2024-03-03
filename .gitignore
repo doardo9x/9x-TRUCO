@@ -1,0 +1,57 @@
+# Arquivos gerados pelo Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+*.sln.docstates
+
+# Arquivos de build
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+bld/
+[Ll]og/
+
+# Arquivos específicos do MonoDevelop/Xamarin Studio
+*.userprefs
+
+# Arquivos de cache do Visual C++
+ipch/
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+
+# Arquivos de configuração e cache do ReSharper
+_ReSharper*/
+*.Re[Ss]harper
+*.DotSettings.user
+
+# Arquivos de cache do JustCode
+.JustCode
+
+# Arquivos de cache do TeamCity
+_TeamCity*
+
+# Arquivos de cobertura de código do DotCover
+*.dotCover
+
+# Arquivos de configuração do Chutzpah Test
+_Chutzpah*
+
+# Arquivos de cache do Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# Arquivos de cache do TFS 2012 Local Workspace
+$tf/
+
+# Arquivos de estado do Guidance Automation Toolkit
+*.gpState
